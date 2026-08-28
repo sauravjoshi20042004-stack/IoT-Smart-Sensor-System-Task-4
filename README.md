@@ -196,7 +196,6 @@ The program waits approximately **16 seconds** between updates to maintain the r
 
 ## 💻 Source Code
 
-> **Security Warning:** Never publish your real ThingSpeak Write API Key on GitHub.
 
 Replace:
 
